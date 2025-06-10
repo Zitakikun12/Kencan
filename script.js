@@ -253,7 +253,7 @@ const gameData = [
   let playerName = '';
 
   // Audio elements
-  let selectionAudio = new Audio('audio.mp3');
+  let selectionAudio = new Audio('budio.mp3');
   let endingAudio = new Audio();
 
   // fungsi buat nampilin notif sementara
